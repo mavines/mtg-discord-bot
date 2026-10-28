@@ -1,0 +1,360 @@
+Champion of the Parish
+Descendant of Storms
+Esper Sentinel
+Giver of Runes
+Kytheon, Hero of Akros
+Lightstall Inquisitor
+Mother of Runes
+Novice Inspector
+Thraben Inspector
+Warden of the Inner Sky
+Astrid Peth
+Cathar Commando
+Intrepid Adversary
+Luminarch Aspirant
+Stoneforge Mystic
+Sungold Sentinel
+Thalia, Guardian of Thraben
+Thalia's Lieutenant
+Blade Splicer
+Cosmogrand Zenith
+Elite Spellbinder
+Loran of the Third Path
+Skyclave Apparition
+Thalia, Heretic Cathar
+Restoration Angel
+Solitude
+Elspeth, Knight-Errant
+The Wandering Emperor
+Ephemerate
+Erode
+Path to Exile
+Swords to Plowshares
+Reprieve
+Unexpectedly Absent
+Oust
+Prismatic Ending
+Armageddon
+Wrath of God
+Portable Hole
+Glimmer Lens
+Staff of the Storyteller
+Maul of the Skyclaves
+Leyline Binding
+Touch the Spirit Realm
+Abandoned Air Temple
+Delver of Secrets
+Faerie Mastermind
+Faerie Vandal
+Jace, Vryn's Prodigy
+Kitsa, Otterball Elite
+Ledger Shredder
+Malcolm, Alluring Scoundrel
+Snapcaster Mage
+Brazen Borrower
+Vendilion Clique
+Subtlety
+Urza, Lord High Artificer
+Venser, Shaper Savant
+Torrential Gearhulk
+Force of Will
+Brainstorm
+Condescend
+Consider
+Occult Epiphany
+Opt
+Spell Pierce
+Spell Snare
+Stern Scolding
+Consult the Star Charts
+Counterspell
+Dig Through Time
+Lose Focus
+Mana Leak
+Memory Lapse
+Miscalculation
+Remand
+Archmage's Charm
+Cryptic Command
+Boomerang Basics
+Lórien Revealed
+Ponder
+Preordain
+Serum Visions
+Treasure Cruise
+Stock Up
+Time Warp
+Time Spiral
+Aether Spellbomb
+Shark Typhoon
+Shelldock Isle
+Bloodsoaked Champion
+Carrion Feeder
+Cult Conscript
+Dread Wanderer
+Gravecrawler
+Gutterbones
+Accursed Marauder
+Bloodghast
+Caustic Bronco
+Dark Confidant
+Deep-Cavern Bat
+Jadar, Ghoulcaller of Nephalia
+Marionette Apprentice
+Misery's Shadow
+Priest of Forgotten Gods
+Scrapheap Scrounger
+Super Shredder
+Evereth, Viceroy of Plunder
+Gix, Yawgmoth Praetor
+Ophiomancer
+Sedgemoor Witch
+Rankle, Master of Pranks
+Yawgmoth, Thran Physician
+Shriekmaw
+Liliana of the Veil
+Snuff Out
+Cut Down
+Disfigure
+Fatal Push
+Bitter Triumph
+Eliminate
+Heartless Act
+Sheoldred's Edict
+Lethal Scheme
+Bloodchief's Thirst
+Duress
+Inquisition of Kozilek
+Thoughtseize
+Unearth
+Collective Brutality
+Toxic Deluge
+Damnation
+Chthonian Nightmare
+Fire Nation Occupation
+Castle Locthwain
+Bomat Courier
+Dragon's Rage Channeler
+Greasewrench Goblin
+Grim Lavamancer
+Marauding Mako
+Monastery Swiftspear
+Soul-Scar Mage
+Zurgo Bellstriker
+Dreadhorde Arcanist
+Emberheart Challenger
+Fear of Missing Out
+Inti, Seneschal of the Sun
+Ivora, Insatiable Heir
+Magda, Brazen Outlaw
+Scrapwork Mutt
+Slickshot Show-Off
+Young Pyromancer
+Bonecrusher Giant
+Seasoned Pyromancer
+Tersa Lightshatter
+Hellrider
+Glorybringer
+Chandra, Torch of Defiance
+Burst Lightning
+Lava Dart
+Lightning Bolt
+Tarfire
+Unholy Heat
+Abrade
+Incinerate
+Chain Lightning
+Firebolt
+Flame Slash
+Forked Bolt
+Arc Trail
+Suplex
+Tribal Flames
+Fiery Confluence
+Wildfire
+Pyrite Spellbomb
+Legion Extruder
+Seal of Fire
+Goblin Bombardment
+Fable of the Mirror-Breaker
+Den of the Bugbear
+Arbor Elf
+Birds of Paradise
+Gilded Goose
+Haywire Mite
+Ignoble Hierarch
+Llanowar Elves
+Noble Hierarch
+Pawpatch Recruit
+Badgermole Cub
+Bristly Bill, Spine Sower
+Cankerbloom
+Frenzied Baloth
+Jolrael, Mwonvuli Recluse
+Lotus Cobra
+Quirion Beastcaller
+Scavenging Ooze
+Scythecat Cub
+Augur of Autumn
+Courser of Kruphix
+Emeritus of Abundance
+Eternal Witness
+Reclamation Sage
+Sandstorm Salvager
+Sentinel of the Nameless City
+Six
+Surrak, Elusive Hunter
+Tireless Provisioner
+Tireless Tracker
+Ursine Monstrosity
+Bristlebud Farmer
+Icetill Explorer
+Questing Beast
+Wolfbriar Elemental
+Deep Forest Hermit
+Titania, Protector of Argoth
+Garruk Relentless
+Collected Company
+Pest Infestation
+Explore
+Life from the Loam
+Malevolent Rumble
+Exploration
+Utopia Sprawl
+Sylvan Library
+Boseiju, Who Endures
+Hangarback Walker
+Walking Ballista
+Porcelain Legionnaire
+Smuggler's Copter
+Academy Manufactor
+Phyrexian Metamorph
+Stridehangar Automaton
+Solemn Simulacrum
+Karn, Scion of Urza
+Mutagenic Growth
+Dismember
+Gitaxian Probe
+Chrome Mox
+Mishra's Bauble
+Mox Diamond
+Urza's Bauble
+Bonesplitter
+Currency Converter
+Retrofitter Foundry
+Sensei's Divining Top
+Shadowspear
+Soul-Guide Lantern
+Reckoner Bankbuster
+Umezawa's Jitte
+Blasting Station
+Grafted Wargear
+Nettlecyst
+Night Scythe
+Sword of Fire and Ice
+Tangle Wire
+Relic of Sauron
+Celestial Colonnade
+No More Lies
+Fractured Identity
+Teferi, Hero of Dominaria
+Creeping Tar Pit
+Baleful Strix
+Basim Ibn Ishaq
+Kaito Shizuki
+Bloodtithe Harvester
+Boomer Scrapper
+Kolaghan's Command
+Mayhem Devil
+Mawloc
+Questing Druid
+Territorial Kavu
+Wrenn and Six
+Shelinda, Yevon Acolyte
+Arwen, Mortal Queen
+Knight of Autumn
+Brightglass Gearhulk
+Hildibrand Manderville
+Lingering Souls
+Lurrus of the Dream-Den
+Vindicate
+Expressive Iteration
+Sprite Dragon
+Third Path Iconoclast
+Fire // Ice
+Deathrite Shaman
+Ravenous Squirrel
+Wight of the Reliquary
+Grist, the Hunger Tide
+Chained to the Rocks
+Figure of Destiny
+Lightning Helix
+Riders of Rohan
+Coiling Oracle
+Planar Genesis
+Uro, Titan of Nature's Wrath
+Tamiyo, Collector of Tales
+Flooded Strand
+Floodfarm Verge
+Hallowed Fountain
+Meticulous Archive
+Tundra
+Gloomlake Verge
+Polluted Delta
+Undercity Sewers
+Underground Sea
+Watery Grave
+Badlands
+Blazemire Verge
+Blood Crypt
+Bloodstained Mire
+Raucous Theater
+Commercial District
+Stomping Ground
+Taiga
+Thornspire Verge
+Wooded Foothills
+Hushwood Verge
+Lush Portico
+Savannah
+Temple Garden
+Windswept Heath
+Bleachbone Verge
+Godless Shrine
+Marsh Flats
+Scrubland
+Shadowy Backstreet
+Riverpyre Verge
+Scalding Tarn
+Steam Vents
+Thundering Falls
+Volcanic Island
+Bayou
+Overgrown Tomb
+Underground Mortuary
+Verdant Catacombs
+Wastewood Verge
+Arid Mesa
+Elegant Parlor
+Plateau
+Sacred Foundry
+Sunbillow Verge
+Breeding Pool
+Hedge Maze
+Misty Rainforest
+Tropical Island
+Willowrush Verge
+Spara's Headquarters
+Raffine's Tower
+Xander's Lounge
+Ziatora's Proving Ground
+Jetmir's Garden
+Savai Triome
+Ketria Triome
+Indatha Triome
+Raugrin Triome
+Zagoth Triome
+Mishra's Factory
+Prismatic Vista
+Urza's Saga
+Wasteland
